@@ -1,0 +1,36 @@
+*
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body
+{
+    border: solid thin black;
+    padding: 10px;
+    
+}
+
+h1,
+ul,
+h3
+{
+    text-align: center;
+}
+
+ul
+{
+    list-style: none;
+}
+
+a
+{
+    text-decoration: none;
+    color: blue;
+}
+
+img
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
